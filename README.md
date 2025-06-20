@@ -12,4 +12,4 @@ HTML<br>
 CSS (with gradients and styling)<br>
 JavaScript (alert)<br>
 
-[octocat](webpage.png)
+
