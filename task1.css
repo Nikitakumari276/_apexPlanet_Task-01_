@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background: radial-gradient(circle, #ffecd2, #fcb69f);
+}
+
+nav{
+    background-color: rgb(4, 35, 82);
+    color:rgb(240, 231, 231);
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.main{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border: 2px solid black;
+    background-color: rgb(3, 21, 118);
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 10px;
+    margin:20px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    border-radius: 50%;
+    padding: 20px;
+    
+}
+.link{
+    font-size: 25px;
+}
+
